@@ -1,4 +1,4 @@
-<img class="rightimg" src="/images/me.jpg"/>
+<img class="rightimg img200px" src="/images/me.jpg"/>
 
 # Thomas Castonguay-Gagnon
 
