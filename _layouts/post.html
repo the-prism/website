@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Écrit le {{ page.date | date: "%B %e, %Y" }}
+    Écrit le
     {% assign m = page.date | date: "%-m" %}
 	{{ page.date | date: "%-d" }}
 	{% case m %}
