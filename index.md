@@ -6,14 +6,6 @@
 
 Vous trouverez plusieurs de mes projets sur ma page personelle github ainsi que quelques articles sur mon blog.
 
-## Unmaintainable Code
-
-Si vous êtes programmeur et vous avez envie de rire un peu, jettez un coup d'oeil à [ceci](https://github.com/the-prism/unmaintainable-code), le meilleur guide pour les mauvaises pratiques de programmation.
-
-[https://github.com/the-prism/unmaintainable-code](https://github.com/the-prism/unmaintainable-code)
-
-À lire à vos risques.
-
 ## Projets
 
 * .NET Core Website with API : [https://github.com/Asra-Notion/Verdant](https://github.com/Asra-Notion/Verdant)
@@ -34,3 +26,11 @@ C'est une place ou je peut écrire et publier mes pensées et tout regrouper au 
 Sans que le contenu ne soit oublié, ou passe sous le radar car un bloc de texte n'est pas aussi intéressant que la photo de ce que j'ai mangé hier soir.
 I'm looking at you Facebook.
 Bref, tout ce qui est ici restera acessible jusqu'à je ne sait quand.
+
+### Unmaintainable Code
+
+Si vous êtes programmeur et vous avez envie de rire un peu, jettez un coup d'oeil à [ceci](https://github.com/the-prism/unmaintainable-code), le meilleur guide pour les mauvaises pratiques de programmation.
+
+[https://github.com/the-prism/unmaintainable-code](https://github.com/the-prism/unmaintainable-code)
+
+À lire à vos risques.
