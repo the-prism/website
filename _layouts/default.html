@@ -23,7 +23,12 @@
       <div id="banner">
         <span id="logo"></span>
         <!-- Main menu -->
-        <a href="{{ site.baseurl }}/" class="button fork"><strong>Home</strong></a>
+        <div class="downloads">
+          <ul>
+            <li><a href="{{ site.baseurl }}/" class="button"><strong>Home</strong></a></li>
+            <li><a href="{{ site.baseurl }}/about" class="button"><strong>About</strong></a></li>
+          </ul>
+        </div>
         <!--
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
         {% if site.show_downloads %}

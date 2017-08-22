@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<div class="header200px" style="background-image: url(/images/head.jpg);">
+&nbsp;
+</div>
 
-You can use the [editor on GitHub](https://github.com/the-prism/the-prism.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenue sur the-prism.github.io,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vous trouverez plusieurs de mes projets sur ma page personelle github ainsi que quelques articles sur mon blog.
 
-### Markdown
+## Unmaintainable Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Si vous êtes programmeur et vous avez envie de rire un peu, jettez un coup d'oeil à [ceci](https://github.com/the-prism/unmaintainable-code), le meilleur guide pour les mauvaises pratiques de programmation.
 
-```markdown
-Syntax highlighted code block
+[https://github.com/the-prism/unmaintainable-code](https://github.com/the-prism/unmaintainable-code)
 
-# Header 1
-## Header 2
-### Header 3
+À lire à vos risques.
 
-- Bulleted
-- List
+## Projets
 
-1. Numbered
-2. List
+* Pokédex en PHP : [https://github.com/the-prism/php-pokedex](https://github.com/the-prism/php-pokedex)
+* Émulateur de shell en C++ : [https://github.com/the-prism/cpp-shell-emulator](https://github.com/the-prism/cpp-shell-emulator)
+* Liste chainée en C : [https://github.com/the-prism/C-linked-list](https://github.com/the-prism/C-linked-list)
+* Calculatrice de matrice en Java : [https://github.com/the-prism/Java-Matrix-Calculator](https://github.com/the-prism/Java-Matrix-Calculator)
+* Application Universelle Windows : [https://github.com/the-prism/UWP-Spy-Project](https://github.com/the-prism/UWP-Spy-Project)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/the-prism/the-prism.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Pourquoi une page personelle ?
+Pourquoi pas.
+Je voulait avoit une place ou je peut publier mes projets, partager mes opinions.
+Je sais très bien que ce ne sera pas un site très visité, ce n'est pas mon but de toute façon.
+C'est une place ou je peut écrire et publier mes pensées et tout regrouper au même endroit.
+Sans que le contenu ne soit oublié, ou passe sous le radar car un bloc de texte n'est pas aussi intéressant que la photo de ce que j'ai mangé hier soir.
+I'm looking at you Facebook.
+Bref, tout ce qui est ici restera acessible jusqu'à je ne sait quand.
