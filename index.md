@@ -16,6 +16,8 @@ Si vous êtes programmeur et vous avez envie de rire un peu, jettez un coup d'oe
 
 ## Projets
 
+* .NET Core Website with API : [https://github.com/Asra-Notion/Verdant](https://github.com/Asra-Notion/Verdant)
+* Windows application for dungeons and dragons : [https://github.com/Asra-Notion/DungeonsAndDragons](https://github.com/Asra-Notion/DungeonsAndDragons)
 * .NET Core Web app using React JS and Redux : [https://github.com/the-prism/Aurora](https://github.com/the-prism/Aurora)
 * Pokédex en PHP : [https://github.com/the-prism/php-pokedex](https://github.com/the-prism/php-pokedex)
 * Émulateur de shell en C++ : [https://github.com/the-prism/cpp-shell-emulator](https://github.com/the-prism/cpp-shell-emulator)
