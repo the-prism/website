@@ -2,3 +2,27 @@
 ---
 
 @import "{{ site.theme }}";
+
+.header200px {
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+  
+.clearfloat {
+    clear: both;
+}
+  
+.leftimg {
+    border-radius: 5px;
+    margin: 15px 15px 15px 0px;
+    float: left;
+}
+  
+.rightimg {
+    border-radius: 5px;
+    margin: 15px 0px 15px 15px;
+    float: right;
+}
