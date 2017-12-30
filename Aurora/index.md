@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aurora_page
 ---
 
 # Aurora project home
