@@ -287,3 +287,47 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// CUSTOM PART
+
+.header200px {
+  border-radius: 5px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  margin-bottom: 2em;
+}
+
+.clearfloat {
+  clear: both;
+}
+
+.leftimg {
+  border-radius: 5px;
+  margin: 15px 15px 15px 0px;
+  float: left;
+}
+
+.rightimg {
+  border-radius: 5px;
+  margin: 15px 0px 15px 15px;
+  float: right;
+}
+
+.img200px {
+  width:200px;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+article.post {
+  margin-bottom: 1.5em;
+}
+
+#banner {
+  right: 0;
+  margin-right: 0;
+}
