@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about.html
 ---
 
 <img class="rightimg img200px" src="/images/me.jpg"/>
