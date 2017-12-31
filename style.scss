@@ -19,15 +19,30 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 14px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 1600px;
+  max-width: 50%;
   padding: 0 10px;
-  width: 70%;
+  width: 100%;
+
+  @include laptop {
+    max-width: 60%;
+    width: 100%;
+  }
+
+  @include tablet {
+    max-width: 80%;
+    width: 100%;
+  }
+
+  @include mobile {
+    max-width: 90%;
+    width: 100%;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -330,4 +345,20 @@ article.post {
 #banner {
   right: 0;
   margin-right: 0;
+}
+
+.round {
+  border-radius: 5px;
+}
+
+.sidebar {
+  float: right;
+  max-width: 250px;
+  width: 250px;
+
+  @include mobile {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+  }
 }

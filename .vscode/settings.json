@@ -19,5 +19,10 @@
         "typescriptreact",
         "yml"
     ],
-    "cSpell.language": "en,fr"
+    "cSpell.language": "en,fr",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "files.exclude": {
+        "_site/": true,
+        ".sass-cache/": true
+    }
 }

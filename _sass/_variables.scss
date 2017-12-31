@@ -21,7 +21,20 @@ $georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
-  @media screen and (max-width: 640px) {
+  @media screen and (max-width: 1024px) {
+    @content;
+  }
+}
+
+// Larger screen but not huge
+@mixin tablet {
+  @media screen and (max-width: 1600px) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media screen and (max-width: 1900px) {
     @content;
   }
 }
