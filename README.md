@@ -1,5 +1,43 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
+# Configure dev environnement
+
+> Instructions are for linux / windows 10 bash
+
+Make sure linux is up to date.
+
+```bash
+sudo apt update
+sudo apt upgrade
+```
+
+Install ruby is it's not installed yet.
+
+```bash
+sudo apt-add-repository ppa:brightbox/ruby-ng
+sudo apt-get update
+sudo apt-get install ruby2.3 ruby2.3-dev build-essential
+```
+
+After that we need to install all the gems required.
+
+```bash
+sudo gem update
+sudo gem install jekyll bundler
+```
+
+Before installing the github-pages gem we need some unlisted libraries required to build the dependencies.
+
+```bash
+sudo apt install libxslt-dev libxml2-dev zlib1g-dev
+```
+
+Then we can install the last required gem. *Note,* this will take a while.
+
+```bash
+sudo gem install github-pages
+```
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
