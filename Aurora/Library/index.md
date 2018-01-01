@@ -7,7 +7,7 @@ layout: aurora_page
 
 {% for page in site.pages %}
 {% if page.categories contains 'library' %}
-<div class="item">
+<div class="item category">
     <a href="{{page.url}}"><h3>{{page.title}}</h3></a>
     <p>{{page.description}}</p>
 </div>
