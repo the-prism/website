@@ -35,7 +35,7 @@ layout: aurora_page
 
 ---
 
-*Affiliation*: Republic
+*Affiliation*: Republic, Jedi Order
 
 {% include right-float-end.html %}
 
@@ -59,6 +59,20 @@ She tried to be discrete as much about this ability, no one since the jedi went 
 At age 10 she became curious as to why she had such strong powers with the force without any training.
 She learned that the sith and jedi went extinct hundreds of years ago and since then there has been a balance in the force.
 She became worried that she could imbalance the force towards the light or the dark.
+
+As she grew up she started to be more and more connected to the force than she previously thought.
+During one of her meditations she was able to feel things and see other places on Tython, at first she was scared, but she eventually realized what it meant.
+She meditated further and discovered an imbalance that was growing in the force, there was a darkness that was more and more present.
+Sara knew that she had to preserve the balance in the force.
+The jedi masters that were one with the force started to manifest themselves in her visions, giving her some insights on the ancient teachings of the light, and how to prevent darkness from taking over.
+At the age of 16 she had force powers stronger than anyone had seen in years.
+She talked to her parents about the situation that was developing but they didn't believe her.
+After asking the master in one of her meditations they agreed to help her convince other that the jedi order needed to return.
+Sara went to confront her parents one more time with the help of the masters that manifested themselves as visions.
+Together they manage to convince them to rebuild the jedi order.
+
+In a matter of months her parents managed to move around some funds and acquired some land outside the city to rebuild the jedi order.
+Sara started teaching her sister NAME in the ways of the force, their bond was so strong that it was easy for her to teach her how to use her force powers.
 
 <!-- Fix the float from the page just in case the content would overflow on the bottom part -->
 <div class="clearfloat"></div>
