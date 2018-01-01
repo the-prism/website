@@ -3,11 +3,12 @@ title: Sara Vasquez
 description: A wound in the force
 categories: [character]
 layout: aurora_page
+permalink: Aurora/Library/Characters/Sara-vasquez.html
 ---
 
 {% include right-float.html %}
 
-![Sara]({{site.url}}/Aurora/Library/Characters/images/Sara.png)
+![Sara](images/Sara.png)
 
 ### Sara Vasquez
 
