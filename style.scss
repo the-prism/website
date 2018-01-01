@@ -361,4 +361,12 @@ article.post {
     max-width: 100%;
     width: 100%;
   }
+  h1, h2, h3, h4, h5 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+  }
+  p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
 }
