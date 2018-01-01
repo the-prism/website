@@ -5,11 +5,15 @@ layout: aurora_page
 categories: [library]
 ---
 
+<div>
 {% for page in site.pages %}
 {% if page.categories contains 'character' %}
-<div class="item">
-    <a href="{{page.url}}"><h3>{{page.title}}</h3></a>
-    <p>{{page.description}}</p>
-</div>
+<a href="{{page.url}}" class="category">
+    <div class="item">
+        <h3>{{page.title}}</h3>
+        <p>{{page.description}}</p>
+    </div>
+</a>
 {% endif %}
 {% endfor %}
+</div>

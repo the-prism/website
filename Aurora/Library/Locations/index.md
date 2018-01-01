@@ -1,13 +1,15 @@
 ---
-title: Library
+title: Locations
+description: List of aurora locations
+categories: [library]
 layout: aurora_page
 ---
 
-*Library under construction*
+*Under construction*
 
 <div>
 {% for page in site.pages %}
-{% if page.categories contains 'library' %}
+{% if page.categories contains 'location' %}
 <a href="{{page.url}}" class="category">
     <div class="item">
         <h3>{{page.title}}</h3>
