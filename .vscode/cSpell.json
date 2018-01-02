@@ -8,10 +8,13 @@
     "words": [
         "Castonguay",
         "Gagnon",
-        "Xbox",
+        "Homeworld",
         "lorsqu'un",
         "m'éloigne",
-        "puisqu'il"
+        "puisqu'il",
+        "sith",
+        "Tython",
+        "Xbox"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.

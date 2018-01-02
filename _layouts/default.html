@@ -1,52 +1,62 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.path }}/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"
+  />
+  <script src="{{ site.path }}/js/jquery.min.js"></script>
+  <script src="{{ site.path }}/js/bootstrap.min.js"></script>
+</head>
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+<body>
+  <nav class="navbar navbar-light fixed-top navbar-expand-lg bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }}</a>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/Aurora">Aurora</a>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+      <div class="collapse navbar-collapse" id="mainNavbar">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item{% if page.title == "Home" %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+          </li>
+          <li class="nav-item{% if page.blog %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a>
+          </li>
+          <li class="nav-item{% if page.title == "About" %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+          </li>
+          <li class="nav-item{% if page.title == " Aurora " %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}/Aurora">Aurora</a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
       </div>
     </div>
+  </nav>
 
-    <div id="main" role="main" class="container">
+  <div class="container">
+    <div class="content">
       {{ content }}
     </div>
+  </div>
+  <!-- /.container -->
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+</body>
 
-    {% include analytics.html %}
-  </body>
 </html>
