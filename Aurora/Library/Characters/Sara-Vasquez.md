@@ -75,5 +75,4 @@ Together they manage to convince them to rebuild the jedi order.
 In a matter of months her parents managed to move around some funds and acquired some land outside the city to rebuild the jedi order.
 Sara started teaching her sister NAME in the ways of the force, their bond was so strong that it was easy for her to teach her how to use her force powers.
 
-<!-- Fix the float from the page just in case the content would overflow on the bottom part -->
-<div class="clearfloat"></div>
+{% include clear-float.html %}
