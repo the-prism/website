@@ -73,9 +73,11 @@ article.post {
 
   @media screen and (max-width: 1024px) {
     float: none;
+    margin-left: 0px;
     max-width: 100%;
     width: 100%;
   }
+
   h1, h2, h3, h4, h5 {
     margin-top: 0px;
     margin-bottom: 5px;
