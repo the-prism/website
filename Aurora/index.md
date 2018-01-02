@@ -1,5 +1,6 @@
 ---
 layout: aurora_page
+title: Aurora
 ---
 
 {% include right-float.html %}

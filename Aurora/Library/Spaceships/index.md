@@ -12,7 +12,7 @@ layout: aurora_page
 {% if page.categories contains 'spaceship' %}
 <a href="{{page.url}}" class="category">
     <div class="item">
-        <h5>{{page.title}}</h5>
+        <h3>{{page.title}}</h3>
         <p>{{page.description}}</p>
     </div>
 </a>

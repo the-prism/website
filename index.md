@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 <div class="header200px" style="background-image: url(/images/head.jpg);">
