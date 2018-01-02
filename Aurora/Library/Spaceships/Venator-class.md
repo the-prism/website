@@ -2,7 +2,7 @@
 title: Venator-class Star Destroyer
 description:
 categories: [spaceship]
-layout: aurora_page
+layout: aurora_library
 permalink: Aurora/Library/Spaceships/Venator-class.html
 ---
 

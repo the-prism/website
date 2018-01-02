@@ -1,6 +1,6 @@
 ---
 title: Story
-layout: aurora_page
+layout: aurora_story
 ---
 
 *Content under construction*

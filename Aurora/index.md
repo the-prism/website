@@ -1,5 +1,5 @@
 ---
-layout: aurora_page
+layout: aurora
 title: Aurora
 ---
 

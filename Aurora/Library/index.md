@@ -1,6 +1,6 @@
 ---
 title: Library
-layout: aurora_page
+layout: aurora_library
 ---
 
 *Library under construction*

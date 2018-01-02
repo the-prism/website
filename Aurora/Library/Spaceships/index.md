@@ -2,7 +2,7 @@
 title: Spaceships
 description: List of spaceships
 categories: [library]
-layout: aurora_page
+layout: aurora_library
 ---
 
 *Under construction*

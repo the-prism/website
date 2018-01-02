@@ -1,7 +1,7 @@
 ---
 title: Characters
 description: A list of characters relevant to the aurora story.
-layout: aurora_page
+layout: aurora_library
 categories: [library]
 ---
 

@@ -2,7 +2,7 @@
 title: Locations
 description: List of aurora locations
 categories: [library]
-layout: aurora_page
+layout: aurora_library
 ---
 
 *Under construction*

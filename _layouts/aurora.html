@@ -32,10 +32,10 @@
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="{% if page.title == "Library" %}active{% endif %}">
+          <li class="{% if page.layout == "aurora_library" %}active{% endif %}">
             <a href="{{ site.baseurl }}/Aurora/Library">Library</a>
           </li>
-          <li class="{% if page.title == "Story" %}active{% endif %}">
+          <li class="{% if page.layout == "aurora_story" %}active{% endif %}">
             <a href="{{ site.baseurl }}/Aurora/Story">Story</a>
           </li>
           <li class="{% if page.title == "Aurora" %}active{% endif %}">

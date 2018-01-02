@@ -2,7 +2,7 @@
 title: Factions
 description: List of factions in the aurora universe.
 categories: [library]
-layout: aurora_page
+layout: aurora_library
 ---
 
 *Under construction*
