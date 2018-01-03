@@ -5,6 +5,12 @@ layout: aurora_library
 categories: [library]
 ---
 
+# Characters
+
+<div class="alert alert-warning" role="alert">
+    <em>Under constructions</em>
+</div>
+
 <div class="card-columns">
 
 {% for page in site.pages %}

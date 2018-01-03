@@ -11,6 +11,8 @@ This *is* a **test**
 
 # Aurora project home
 
-Under developement
+<div class="alert alert-warning" role="alert">
+    The aurora project is still in early stages. <em>More content coming soon</em>
+</div>
 
 <div class="clearfloat"></div>

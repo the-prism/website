@@ -3,7 +3,11 @@ title: Library
 layout: aurora_library
 ---
 
-*Library under construction*
+# Library
+
+<div class="alert alert-warning" role="alert">
+    <em>Library under construction</em>
+</div>
 
 <div class="card-columns">
 
