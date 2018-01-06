@@ -73,6 +73,16 @@ Sara went to confront her parents one more time with the help of the masters tha
 Together they manage to convince them to rebuild the jedi order.
 
 In a matter of months her parents managed to move around some funds and acquired some land outside the city to rebuild the jedi order.
-Sara started teaching her sister NAME in the ways of the force, their bond was so strong that it was easy for her to teach her how to use her force powers.
+Sara started teaching her sister [Alessandra](Alessandra-vasquez) in the ways of the force, their bond was so strong that it was easy for her to teach her how to use her force powers.
+After a couple of months the both of them had mastered their force abilities to the point they could start teaching others.
+By then their parents managed to get more involved with the republic the the new order was funded and protected by the republic.
+The galactic stability was in peril as the federation and empire started to reinforce their borders.
+There had been reports of force users attacking colonies on the border between, but neither the empire and the federation confirmed it.
+
+When she was 20 she went on a trip across multiple worlds to find her lightsabre crystal.
+She found her crystal in a cave on dantooine, after assembling her lightsabre the blade turned out the be a deep blue color.
+As she started teaching others in the ways of the force at the temple on Tython, Sara started to gain interest in how to maintain balance in the force.
+She learned to use some of the dark side powers, which she didnt tell anyone at the academy about.
+As she learned more and more how to channel the full powers she had to be carefull to not let her emotions take over.
 
 {% include clear-float.html %}
