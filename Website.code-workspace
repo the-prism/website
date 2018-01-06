@@ -11,6 +11,22 @@
 		}
 	],
 	"settings": {
-		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"
+		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+		"cSpell.words": [
+			"Alessandra",
+			"Castonguay",
+			"Gagnon",
+			"Homeworld",
+			"Tython",
+			"Xbox",
+			"dantooine",
+			"lightsaber",
+			"lorsqu'un",
+			"m'éloigne",
+			"padawans",
+			"permalink",
+			"puisqu'il",
+			"sith"
+		]
 	}
 }

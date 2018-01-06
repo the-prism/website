@@ -82,23 +82,23 @@ There had been reports of force users attacking colonies on the border between, 
 When she was 20 she went on a trip across multiple worlds to find her lightsaber crystal.
 She found her crystal in a cave on dantooine, after assembling her lightsaber the blade turned out the be a deep blue color.
 As she started teaching others in the ways of the force at the temple on Tython, Sara started to gain interest in how to maintain balance in the force.
-She learned to use some of the dark side powers, which she didnt tell anyone at the academy about.
-As she learned more and more how to channel the full powers she had to be carefull to not let her emotions take over.
+She learned to use some of the dark side powers, which she didn't tell anyone at the academy about.
+As she learned more and more how to channel the full powers she had to be careful to not let her emotions take over.
 Her lightsaber crystal eventually turned purple over time as she used more and more dark side powers trying to learn about them.
-Unsure about what this meant she asked the old masters about this during one of her mediations.
-She learned that the purple saber was achieved when the force user would reach a balance in the force, using both darkside and lightside powers towards keeping a balance in the force.
+Unsure about what this meant she asked the old masters about this during one of her meditations.
+She learned that the purple saber was achieved when the force user would reach a balance in the force, using both dark side and light side powers towards keeping a balance in the force.
 
-She realized that the more and more she used the darkside powers she learned she would stray further away from the light and the only change at restoring balance.
-It's evident that the previous attempt to restore balance that removed the jedi and sith from the galaxy didnt work.
-It was without doubt inevitable that there would be children that would be stong with the force.
+She realized that the more and more she used the dark side powers she learned she would stray further away from the light and the only change at restoring balance.
+It's evident that the previous attempt to restore balance that removed the jedi and sith from the galaxy didn't work.
+It was without doubt inevitable that there would be children that would be strong with the force.
 They had hoped that by not training anyone there would no longer be sith or jedi.
-Whenever the dark or the light would succeed, the other would inevitably commeback and the cycle would continue.
+Whenever the dark or the light would succeed, the other would inevitably comme back and the cycle would continue.
 
-Sara decided to fast track the order, and start training padawans even though the order didnt have any masters yet.
+Sara decided to fast track the order, and start training padawans even though the order didn't have any masters yet.
 Alessandra suggested that Sara became the first master but she refused, she knew that in her place she had to keep the balance, and that it could possibly lead to turning against the order.
-The order needed to remain true to preserving the light, Sara was affraid that she would taint it with the darkside.
-She didn't want to risk any of the padawans or even knights turning the darkside because of her influence.
-By the time she reached 24, there were already 2 generations of jedi knights in the order, the first being the ones she trained personnally.
+The order needed to remain true to preserving the light, Sara was afraid that she would taint it with the dark side.
+She didn't want to risk any of the padawans or even knights turning the dark side because of her influence.
+By the time she reached 24, there were already 2 generations of jedi knights in the order, the first being the ones she trained personally.
 It was time for the jedi council to return.
 Alessandra and other formed the jedi council, the became the first jedi masters in years, and started training new padawans.
 
