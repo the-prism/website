@@ -98,7 +98,7 @@ At the suggestion of Anakin Skywalker, a heavy SPHA turbolaser cannon was instal
 
 ### Propulsion systems
 
-Venators were equipped with powerful engines, a Class 1 hyperdrive with an effective range of 60,000 light years. Its main reactor could annihilate up to 40,000 tons of hypermatter fuel per second, producing at maximum 3.6 × 1024 watts of power.
+Venators were equipped with powerful engines, a Class 1 hyperdrive with an effective range of 60,000 light years. Its main reactor could annihilate up to 40,000 tons of hypermatter fuel per second, producing at maximum 3.6 × 10^24 watts of power.
 
 The main engine room had several vertical power cylinders littering the room, with walkways on different levels providing access to onboard personnel.
 Complement
@@ -118,5 +118,16 @@ Because of its carrier role, the Venator-class featured a novel dual bridge towe
 The command bridge was designed with dual crew pits where operators would be stationed to control the ship's various functions. Officers would patrol walkways above and have a panoramic view to the outside. This bridge design would become a standard feature on most Imperial warships.
 
 On top of each tower was a hyperwave communications and scanner module. Its function was similar to the scanner globes on the Imperial-class and other KDY vessels, but it had a flat shape. Flagships in Venator flotillas had red-painted conning towers to separate them from others. 
+
+## Post war era
+
+After the fall of the first order and the return of the republic, the galaxy was in a more peaceful period.
+Due to their multi purpose role, the republic was interested in re-acquiring Venators in their fleet to help the rebuilding effort.
+They proved to be very effective in support roles due to their large cargo capacity and carrier role, it allowed a single Venator to be used to supply aid to an entire system.
+This meant that the republic would be able to cover more ground faster with the use of multiple Venators.
+
+The design was slightly upgraded, more cannons were added to the side of the ship to provided point defence.
+The main hangar also got upgraded with an other turret to help protect the flight deck.
+The hangar doors were upgraded and are now capable to close at a much faster rate, reducing the effect of an attack on the main flight deck.
 
 {% include clear-float.html %}
