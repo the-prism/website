@@ -77,7 +77,8 @@ The Venator-class Star Destroyer, also known as the Venator-class Destroyer, Rep
 A stock ship was 1,137 meters long, making it one of the largest capital ships capable of atmospheric operations, landing on planets to load and unload troops and vehicles.
 
 The Venator-class was born from the success of the Acclamator-class assault ship and was designed by Lira Blissex for the purpose of serving as a medium-sized, versatile multi-role warship.
-Roles
+
+### Roles
 
 While designed primarily for ship-to-ship combat, the Venator had secondary roles ranging from starfighter carrier, to military transport and battleship escort. The expanded carrier role made the Venator-class popular amongst Jedi starfighter aces.
 
