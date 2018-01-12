@@ -12,37 +12,5 @@
 	],
 	"settings": {
 		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
-		"cSpell.words": [
-			"Acclamator",
-			"Actis",
-			"Alessandra",
-			"Allanteen",
-			"Castonguay",
-			"Coruscant",
-			"Gagnon",
-			"Homeworld",
-			"Imperator",
-			"Secutor",
-			"Tython",
-			"Venator's",
-			"Venators",
-			"Xbox",
-			"dantooine",
-			"hyperdrive",
-			"hypermatter",
-			"hyperwave",
-			"lightsaber",
-			"lorsqu'un",
-			"m'éloigne",
-			"padawans",
-			"permalink",
-			"puisqu'il",
-			"sith",
-			"starfighter",
-			"starfighters",
-			"starships",
-			"turbolaser",
-			"turbolasers"
-		]
 	}
 }

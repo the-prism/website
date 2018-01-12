@@ -53,7 +53,7 @@ Sara displayed some form of force ability when she was playing with the other ch
 She was able to make object levitate around her, much more easily and strongly than other children they had seen before.
 No one believed she would develop her abilities further.
 
-Whe she attended school she eventually managed to develop bonds with other children that were force sensitive easily, she had no trouble making friends.
+When she attended school she eventually managed to develop bonds with other children that were force sensitive easily, she had no trouble making friends.
 Se eventually realized that she could affect minds with the force.
 Those that we less strong with the force could be easily influenced and she became able to read their minds.
 She tried to be discrete as much about this ability, no one since the jedi went extinct ever came close to her abilities.
@@ -92,7 +92,7 @@ She realized that the more and more she used the dark side powers she learned sh
 It's evident that the previous attempt to restore balance that removed the jedi and sith from the galaxy didn't work.
 It was without doubt inevitable that there would be children that would be strong with the force.
 They had hoped that by not training anyone there would no longer be sith or jedi.
-Whenever the dark or the light would succeed, the other would inevitably comme back and the cycle would continue.
+Whenever the dark or the light would succeed, the other would inevitably come back and the cycle would continue.
 
 Sara decided to fast track the order, and start training padawans even though the order didn't have any masters yet.
 Alessandra suggested that Sara became the first master but she refused, she knew that in her place she had to keep the balance, and that it could possibly lead to turning against the order.
