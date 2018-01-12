@@ -1,25 +1,10 @@
 {
-    "cSpell.enabledLanguageIds": [
-        "c",
-        "cpp",
-        "csharp",
-        "go",
-        "handlebars",
-        "javascript",
-        "javascriptreact",
-        "json",
-        "latex",
+    "spellright.language": "en",
+    "spellright.documentTypes": [
         "markdown",
-        "php",
-        "plaintext",
-        "python",
-        "restructuredtext",
-        "text",
-        "typescript",
-        "typescriptreact",
-        "yml"
+        "latex",
+        "plaintext"
     ],
-    "cSpell.language": "en",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "files.exclude": {
         "_site/": true,

@@ -40,7 +40,7 @@ permalink: Aurora/Library/Characters/Sara-vasquez.html
 
 {% include right-float-end.html %}
 
-Sara was given to an orphanage whe she was only weeks old.
+Sara was given to an orphanage when she was only weeks old.
 No one ever knew who here parents were or where she was born.
 It was assumed she was born on Tython since it where she was found.
 
