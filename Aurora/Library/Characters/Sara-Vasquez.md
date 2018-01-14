@@ -103,5 +103,11 @@ It was time for the jedi council to return.
 Alessandra and other formed the jedi council, the became the first jedi masters in years, and started training new padawans.
 
 Sara and other jedi knights were mandated by the council to go aid the republic in the evolving situation.
+The were assigned to the open circle fleet and deployed on the border with the empire where there had been reports of star destroyers getting close to republic worlds.
+The tension was rising between the federation, the empire and the republic, no one wanted war but it seemed just around the corner.
+The republic was getting worried about the reports that came in from attacks against the federation where lightsaber users attacked cities.
+Since they could not intervene directly, they asked for the help of the jedi council once more.
+Sara and 2 other jedi knights volunteered to infiltrate the federation and reach the region where those attacks were reported.
+Meanwhile the other jedi knights patrolled the outskirts of republic space and kept an eye out for any move from the empire.
 
 {% include clear-float.html %}

@@ -15,4 +15,6 @@ This *is* a **test**
     The aurora project is still in early stages. <em>More content coming soon</em>
 </div>
 
+<!-- spellcheck-off -->
+
 <div class="clearfloat"></div>
