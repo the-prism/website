@@ -8,7 +8,7 @@ permalink: Aurora/Library/Characters/Sara-vasquez.html
 
 {% include right-float.html %}
 
-![Sara](images/Sara.png)
+[![Sara](images/Sara.png)](images/Sara.png)
 
 ### Sara Vasquez
 
@@ -20,25 +20,25 @@ permalink: Aurora/Library/Characters/Sara-vasquez.html
 
 ---
 
-*Species*
+*Species*: Human
 
-*Gender*
+*Gender*: Female
 
-*Height*
+*Height*: 1.68 m
 
-*Mass*
+*Mass*: 56 kg
 
-*Hair color*
+*Hair color*: brown
 
-*Eye color*
-
-*Hair color*
+*Eye color*: blue
 
 ---
 
 *Affiliation*: Republic, Jedi Order
 
 {% include right-float-end.html %}
+
+# Sara Vasquez
 
 Sara was given to an orphanage when she was only weeks old.
 No one ever knew who here parents were or where she was born.
