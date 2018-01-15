@@ -44,6 +44,8 @@ Sara was given to an orphanage when she was only weeks old.
 No one ever knew who here parents were or where she was born.
 It was assumed she was born on Tython since it where she was found.
 
+### Growing up
+
 She grew up with other children until the age of 5 before she was adopted.
 Still to this day she doesn't remember the years she spent there.
 She was adopted by the Vasquez family on Tython where she had an older sister.
@@ -60,6 +62,8 @@ She tried to be discrete as much about this ability, no one since the jedi went 
 At age 10 she became curious as to why she had such strong powers with the force without any training.
 She learned that the sith and jedi went extinct hundreds of years ago and since then there has been a balance in the force.
 She became worried that she could imbalance the force towards the light or the dark.
+
+### The new jedi order
 
 As she grew up she started to be more and more connected to the force than she previously thought.
 During one of her meditations she was able to feel things and see other places on Tython, at first she was scared, but she eventually realized what it meant.
@@ -101,6 +105,8 @@ She didn't want to risk any of the padawans or even knights turning the dark sid
 By the time she reached 24, there were already 2 generations of jedi knights in the order, the first being the ones she trained personally.
 It was time for the jedi council to return.
 Alessandra and other formed the jedi council, the became the first jedi masters in years, and started training new padawans.
+
+### Present day
 
 Sara and other jedi knights were mandated by the council to go aid the republic in the evolving situation.
 The were assigned to the open circle fleet and deployed on the border with the empire where there had been reports of star destroyers getting close to republic worlds.
