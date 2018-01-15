@@ -8,7 +8,7 @@ permalink: Aurora/Library/Characters/Alessandra-vasquez.html
 
 {% include right-float.html %}
 
-![Alessandra](images/Alessandra.png)
+[![Alessandra](images/Alessandra.png)](images/Alessandra.png)
 
 ### Alessandra Vasquez
 
