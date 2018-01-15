@@ -6,18 +6,19 @@
         {
             "label": "jekyll serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve",
-            "problemMatcher": []
+            "command": "bundle exec jekyll serve -I",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         },
         {
             "label": "jekyll build",
             "type": "shell",
             "command": "bundle exec jekyll build",
             "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            
         }
     ]
 }
