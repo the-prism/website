@@ -35,3 +35,11 @@ Then we can install the last required gem. *Note,* this will take a while.
 ```bash
 sudo gem install github-pages
 ```
+
+# Bootstrap
+
+Bootstrap is used for the css in it's uncompiled sass format in the css folder. Compilation is configured in the `_config.yml` file. The current version of the source files is `4.0 beta 3`. Future update may be required once 4.0 is out of beta.
+
+[More info here](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+> Tutorials and components are described in the documentation above.

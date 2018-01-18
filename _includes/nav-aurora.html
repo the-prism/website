@@ -1,0 +1,27 @@
+<nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg">
+    <div class="container">
+        <a class="navbar-brand" href="{{ site.baseurl }}/Aurora">Aurora</a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="mainNavbar">
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item{% if page.layout == "aurora_library" %} active{% endif %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/Aurora/Library">Library</a>
+                </li>
+                <li class="nav-item{% if page.layout == "aurora_story" %} active{% endif %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/Aurora/Story">Story</a>
+                </li>
+                <li class="nav-item{% if page.title == "Aurora" %} active{% endif %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/Aurora">Home</a>
+                </li>
+            </ul>
+            <span class="navbar-text">
+                In 1313 ABY, the balance of the force is again disrupted.
+            </span>
+        </div>
+    </div>
+</nav>
