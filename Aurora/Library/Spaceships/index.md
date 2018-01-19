@@ -19,7 +19,7 @@ layout: aurora_library
   <div class="card-body">
     <h5 class="card-title">{{page.title}}</h5>
     <p class="card-text">{{page.description}}</p>
-    <a href="{{page.url}}" class="btn btn-primary">View</a>
+    <a href="{{page.url}}" class="btn btn-primary">More</a>
   </div>
 </div>
 {% endif %}
