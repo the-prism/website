@@ -6,6 +6,12 @@ layout: aurora_library
 permalink: Aurora/Library/Locations/Tython.html
 ---
 
+{% include right-float.html %}
+
+[![Sara](images/Tython.png)](images/Tython.png)
+
+{% include right-float-end.html %}
+
 # Tython
 
 Tython was a planet in the Tython system of the Deep Core that played a pivotal role in the histories of the Je'daii Order and its successor, the Jedi Order.
