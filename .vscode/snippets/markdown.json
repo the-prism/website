@@ -1,0 +1,70 @@
+{
+    "Include right float": {
+        "prefix": "float-right",
+        "body": [
+            "{% include right-float.html %}",
+            "",
+            "$0",
+            "",
+            "{% include right-float-end.html %}"
+        ],
+        "description": "Include liquid templates for right float section"
+    },
+    "Website Page": {
+        "prefix": "website-page",
+        "body": [
+            "---",
+            "title: $1",
+            "description: $2",
+            "categories: [$3]",
+            "layout: page",
+            "permalink: $4",
+            "---",
+            "$0"
+        ],
+        "description": "YAML front header for website page"
+    },
+    "Aurora Page": {
+        "prefix": "aurora-page",
+        "body": [
+            "---",
+            "title: $1",
+            "description: $2",
+            "categories: [$3]",
+            "layout: aurora",
+            "permalink: $4",
+            "---",
+            "$0"
+        ],
+        "description": "YAML front header for aurora page"
+    },
+    "Aurora Lib": {
+        "prefix": "aurora-lib",
+        "body": [
+            "---",
+            "title: $1",
+            "description: $2",
+            "categories: [$3]",
+            "layout: aurora_library",
+            "permalink: $4",
+            "---",
+            "$0"
+        ],
+        "description": "YAML front header for aurora library page"
+    },
+    "Blog post": {
+        "prefix": "blog-post",
+        "body": [
+            "---",
+            "layout: post",
+            "title: $1",
+            "blog: true",
+            "---",
+            "",
+            "$0",
+            "",
+            "<!-- more -->"
+        ],
+        "description": "YAML front header for a blog post"
+    }
+}
