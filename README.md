@@ -38,8 +38,6 @@ sudo gem install github-pages
 
 # Bootstrap
 
-Bootstrap is used for the css in it's uncompiled sass format in the css folder. Compilation is configured in the `_config.yml` file. The current version of the source files is `4.0`. Future update may be required for patches.
+Bootstrap is used for the css in it's uncompiled sass format in the css folder. Compilation is configured in the `_config.yml` file. The current version of the source files is `4.0` Future update may be required for patches.
 
-[More info here](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-
-> Tutorials and components are described in the documentation above.
+> Tutorials and components are described in the documentation. [More info here](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
