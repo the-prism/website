@@ -66,5 +66,13 @@
             "<!-- more -->"
         ],
         "description": "YAML front header for a blog post"
+    },
+    "Clear float": {
+        "prefix": "clear-float",
+        "body": [
+            "{% include clear-float.html %}",
+            "$0"
+        ],
+        "description": "Include div for clearing the float on the page, ie moving the text under a section that is float-right"
     }
 }
