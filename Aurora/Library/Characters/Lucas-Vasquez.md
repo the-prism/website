@@ -43,5 +43,8 @@ permalink: Aurora/Library/Characters/Lucas-vasquez.html
 Lucas was born before Alessandra and the adoption of Sara.
 He was always more of a lone wolf than someone who would get along with other easily.
 He was 7 years old when his parents adopted Sara, old enough to know she wasn't really her sister.
+He still managed to get along with her fairly well, but he wasn't a very outgoing person to begin with.
+
+When he saw Sara's force abilities he became jealous of all the attention she was getting, at home and at school.
 
 {% include clear-float.html %}

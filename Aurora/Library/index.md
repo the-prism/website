@@ -13,7 +13,7 @@ layout: aurora_library
   <hr class="my-4">
   <p>There is a lot more content coming soon.</p>
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    <a class="btn btn-primary btn-lg" href="/blog" role="button">Learn more</a>
   </p>
 </div>
 
