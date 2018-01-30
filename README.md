@@ -1,8 +1,8 @@
-## Configure dev environnement
+## Configure dev environment
 
-> Instructions are for linux / windows 10 bash
+> Instructions are for Linux / windows 10 bash
 
-Make sure linux is up to date.
+Make sure Linux is up to date.
 
 ```bash
 sudo apt update
@@ -21,20 +21,10 @@ After that we need to install all the gems required.
 
 ```bash
 sudo gem update
-sudo gem install jekyll bundler
+sudo gem install jekyll
 ```
 
-Before installing the github-pages gem we need some unlisted libraries required to build the dependencies.
-
-```bash
-sudo apt install libxslt-dev libxml2-dev zlib1g-dev
-```
-
-Then we can install the last required gem. *Note,* this will take a while.
-
-```bash
-sudo gem install github-pages
-```
+In order to run the website locally you can either use vs code with the tasks already setup, or simply run `jekyll serve` in the folder.
 
 # Bootstrap
 
