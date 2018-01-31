@@ -13,15 +13,18 @@ Vous trouverez plusieurs de mes projets sur ma page personnelle github ainsi que
 
 ## Projets
 
-* .NET Core Website with API : [https://github.com/Asra-Notion/Verdant](https://github.com/Asra-Notion/Verdant)
-* Windows application for dungeons and dragons : [https://github.com/Asra-Notion/DungeonsAndDragons](https://github.com/Asra-Notion/DungeonsAndDragons)
-* .NET Core Web app using React JS and Redux : [https://github.com/the-prism/Aurora](https://github.com/the-prism/Aurora)
-* Dino Revenge 3D : [https://github.com/the-prism/dino-revenge](https://github.com/the-prism/dino-revenge)
-* Pokédex en PHP : [https://github.com/the-prism/php-pokedex](https://github.com/the-prism/php-pokedex)
-* Émulateur de shell en C++ : [https://github.com/the-prism/cpp-shell-emulator](https://github.com/the-prism/cpp-shell-emulator)
-* Liste chaînée en C : [https://github.com/the-prism/C-linked-list](https://github.com/the-prism/C-linked-list)
-* Calculatrice de matrice en Java : [https://github.com/the-prism/Java-Matrix-Calculator](https://github.com/the-prism/Java-Matrix-Calculator)
-* Application Universelle Windows : [https://github.com/the-prism/UWP-Spy-Project](https://github.com/the-prism/UWP-Spy-Project)
+* Jekyll theme based on bootstrap _it's the theme used on this page_: <https://github.com/the-prism/Jekyll-Bootstrap>
+* Command line application for handling batch files with pandoc : <https://github.com/the-prism/Pandoc-Tools>
+* UI wrapper for pandoc in windows and java (_incomplete_) : <https://github.com/the-prism/Pandoc-UI>
+* Windows application for dungeons and dragons : <https://github.com/the-prism/DungeonsAndDragons>
+* Fitness Habits, _prototype android app for fitness tracking_ : <https://github.com/the-prism/FitnessHabits>
+* Ping a heroku server to check if it's up : <https://github.com/the-prism/HerokuPing>
+* Dino Revenge 3D : <https://github.com/the-prism/dino-revenge>
+* Pokédex witten in PHP : <https://github.com/the-prism/php-pokedex>
+* C++ shell emulator : <https://github.com/the-prism/cpp-shell-emulator>
+* C linked list example : <https://github.com/the-prism/C-linked-list>
+* Java matrix calculator : <https://github.com/the-prism/Java-Matrix-Calculator>
+* Windows Universal Application : <https://github.com/the-prism/UWP-Spy-Project>
 
 ### Pourquoi une page personnelle ?
 Pourquoi pas.
