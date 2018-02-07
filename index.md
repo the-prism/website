@@ -37,8 +37,7 @@ Bref, tout ce qui est ici restera accessible jusqu'à je ne sait quand.
 
 ### Unmaintainable Code
 
-Si vous êtes programmeur et vous avez envie de rire un peu, jetez un coup d'oeil à [ceci](https://github.com/the-prism/unmaintainable-code), le meilleur guide pour les mauvaises pratiques de programmation.
-
-[https://github.com/the-prism/unmaintainable-code](https://github.com/the-prism/unmaintainable-code)
+Si vous êtes programmeur et vous avez envie de rire un peu, jetez un coup d'oeil à [ceci](https://github.com/Droogans/unmaintainable-code), le meilleur guide pour les mauvaises pratiques de programmation.
+Sur une note plus sérieuse, vous devriez lire Clean Code à la place.
 
 À lire à vos risques.
