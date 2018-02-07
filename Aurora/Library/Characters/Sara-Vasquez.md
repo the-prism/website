@@ -116,4 +116,19 @@ Since they could not intervene directly, they asked for the help of the jedi cou
 Sara and 2 other jedi knights volunteered to infiltrate the federation and reach the region where those attacks were reported.
 Meanwhile the other jedi knights patrolled the outskirts of republic space and kept an eye out for any move from the empire.
 
+### Force powers
+
+- Battle mediation
+- Force push
+- Force pull
+- Force crush
+- Lightsaber throw
+- Telekinesis
+- Mind trick
+- Mind probe
+- Force sense
+- Telepathy
+
+<!-- Reference http://starwars.wikia.com/wiki/Force_power/Legends -->
+
 {% include clear-float.html %}
