@@ -1,0 +1,13 @@
+{
+    "spellright.language": "en",
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "files.exclude": {
+        "_site/": true,
+        ".sass-cache/": true
+    }
+}
