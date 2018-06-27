@@ -93,4 +93,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - Website.code-workspace
+  - website.code-workspace
