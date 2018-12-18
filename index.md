@@ -26,18 +26,45 @@ Vous trouverez plusieurs de mes projets sur ma page personnelle github ainsi que
 * Java matrix calculator : <https://github.com/the-prism/Java-Matrix-Calculator>
 * Windows Universal Application : <https://github.com/the-prism/UWP-Spy-Project>
 
-### Pourquoi une page personnelle ?
-Pourquoi pas.
-Je voulait avoir une place ou je peut publier mes projets, partager mes opinions.
-Je sais très bien que ce ne sera pas un site très visité, ce n'est pas mon but de toute façon.
-C'est une place ou je peut écrire et publier mes pensées et tout regrouper au même endroit.
-Sans que le contenu ne soit oublié, ou passe sous le radar car un bloc de texte n'est pas aussi intéressant que la photo de ce que j'ai mangé hier soir.
-I'm looking at you Facebook.
-Bref, tout ce qui est ici restera accessible jusqu'à je ne sait quand.
+<h1>Blog</h1>
 
-### Unmaintainable Code
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
 
-Si vous êtes programmeur et vous avez envie de rire un peu, jetez un coup d'oeil à [ceci](https://github.com/Droogans/unmaintainable-code), le meilleur guide pour les mauvaises pratiques de programmation.
-Sur une note plus sérieuse, vous devriez lire Clean Code à la place.
+      <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link-unstyled">{{ post.title }}</a></h3>
 
-À lire à vos risques.
+      <div class="entry">
+        {{ post.excerpt }}  
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
