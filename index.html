@@ -63,12 +63,12 @@ title: Home
   {% if paginator.previous_page %}
     <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a></li>
   {% else %}
-    <li class="page-item"><a class="page-link">&laquo; Previous</a></li>
+    <li class="page-item disabled"><span class="page-link">&laquo; Previous</span></li>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <li class="page-item"><a class="page-link">{{ page }}</a></li>
+      <li class="page-item active"><span class="page-link">{{ page }}</span></li>
     {% elsif page == 1 %}
       <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
     {% else %}
@@ -79,7 +79,7 @@ title: Home
   {% if paginator.next_page %}
     <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
   {% else %}
-    <li class="page-item"><a class="page-link">Next &raquo;</a></li>
+    <li class="page-item disabled"><span class="page-link">Next &raquo;</span></li>
   {% endif %}
 </ul>
 {% endif %}
