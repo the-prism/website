@@ -4,7 +4,7 @@ title: About
 permalink: /about.html
 ---
 
-<img class="rightimg img200px" src="/images/me.jpg"/>
+<img class="rightimg img200px" src="{{ site.baseurl }}/images/me.jpg"/>
 
 # Thomas Castonguay-Gagnon
 _Étudiant, programmeur et plus encore._

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="header200px" style="background-image: url(/images/head.jpg);">
+<div class="header200px" style="background-image: url(/website/images/head.jpg);">
 &nbsp;
 </div>
 
