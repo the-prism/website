@@ -51,11 +51,9 @@ baseurl: /website
 
 paginate: 5
 
-paginate_path: "/blog/page:num/"
-
 categories: [library, character, location, spaceship, faction]
 
-excerpt_separator: "<!-- more -->"
+excerpt_length: 50
 
 #
 # !! You don't need to change any of the configuration flags below !!
