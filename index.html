@@ -38,15 +38,17 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <article class="post">
+    <article class="post card">
+      <div class="card-body">
+          <h3 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}" class="link-unstyled">{{ post.title }}</a></h3>
 
-      <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link-unstyled">{{ post.title }}</a></h3>
-
-      <div class="entry">
-        {{ post.excerpt }}  
+          <div class="entry">
+            {{ post.excerpt }}  
+          </div>
+          
+          <button type="button" class="btn btn-outline-secondary"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></button>
+          
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
