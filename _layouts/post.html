@@ -9,11 +9,11 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
+  <div class="date mt-5">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  <div>
+  <div class="mt-3">
     <a href="{{ site.baseurl }}/blog" role="button" class="btn btn-outline-success">Back</a>
   </div>
   {% include disqus.html %}
