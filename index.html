@@ -46,8 +46,7 @@ title: Home
             {{ post.excerpt }}  
           </div>
           
-          <button type="button" class="btn btn-outline-secondary"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></button>
-          
+          <a href="{{ site.baseurl }}{{ post.url }}"role="button" class="btn btn-outline-secondary">Read More</a>
       </div>
     </article>
   {% endfor %}
