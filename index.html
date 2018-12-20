@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Home
+bigimg: images/head.jpg
 ---
 
-<div class="header200px" style="background-image: url(/website/images/head.jpg);">
+<!--<div class="header200px" style="background-image: url(/website/images/head.jpg);">
 &nbsp;
-</div>
+</div>-->
 
 {% unless paginator.previous_page %}
 
@@ -48,7 +49,7 @@ title: Home
             {{ post.excerpt }}  
           </div>
           
-          <a href="{{ site.baseurl }}{{ post.url }}" role="button" class="btn btn-outline-secondary">Read More</a>
+          <a href="{{ site.baseurl }}{{ post.url }}" role="button" class="btn btn-outline-success">Read More</a>
       </div>
     </article>
   {% endfor %}
