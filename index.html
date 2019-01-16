@@ -6,7 +6,7 @@ bigimg: images/head.jpg
 
 {% unless paginator.previous_page %}
 
-<div class="card">
+<div class="card shadow-sm">
     <div class="card-body">
         <h2 class="card-title">Projets</h2>
 
@@ -37,7 +37,7 @@ bigimg: images/head.jpg
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <article class="post card">
+    <article class="post card shadow-sm">
       <div class="card-body">
           <h3 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}" class="link-unstyled">{{ post.title }}</a></h3>
 
