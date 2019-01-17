@@ -2,9 +2,8 @@
 published: true
 layout: blog
 blog: true
+title: Working with third party API
 ---
-# Working with third party API
-
 Nothing brings more joy to a developper that integrating services with a third party. Using google's services in you application, or integrating with Facebook. It's easy, you download their client library, read the documentation and voila, you are good to go, in theory.
 
 However you quickly hit problems when you can't use the client libraries. Often they will only support some versions of languages, mainly only the common stuff. If you work on older code bases or simply something that's not supported you are on your own.
