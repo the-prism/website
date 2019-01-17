@@ -10,7 +10,7 @@ blog: true
 <p>You will find here the entire archive of my blog posts</p>
 
 <div class="posts">
-  {% for post in site.posts %} 
+  {% for post in paginator.posts %}
     <article class="post card shadow-sm">
       <div class="card-body">
           <h3 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}" class="link-unstyled">{{ post.title }}</a></h3>
@@ -19,8 +19,34 @@ blog: true
             {{ post.excerpt }}  
           </div>
           
-          <a href="{{ site.baseurl }}{{ post.url }}"role="button" class="btn btn-outline-secondary">Read More</a>
+          <a href="{{ site.baseurl }}{{ post.url }}" role="button" class="btn btn-outline-success">Read More</a>
       </div>
     </article>
   {% endfor %}
 </div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination">
+  {% if paginator.previous_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a></li>
+  {% else %}
+    <li class="page-item disabled"><span class="page-link">&laquo; Previous</span></li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="page-item active"><span class="page-link">{{ page }}</span></li>
+    {% elsif page == 1 %}
+      <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+      <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+  {% else %}
+    <li class="page-item disabled"><span class="page-link">Next &raquo;</span></li>
+  {% endif %}
+</ul>
+{% endif %}
