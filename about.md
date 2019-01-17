@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about.html
+published: true
 ---
 
 <img class="rightimg img200px" src="{{ site.baseurl }}/images/me.jpg"/>
@@ -25,13 +26,3 @@ J'ai ensuite passé une période de crise existentielle dans mon parcours de gam
 Il y a de cela deux ou trois ans je ne me souviens plus, je suis retourné du bon coté lorsque je me suis construit mon pc.
 Je joue désormais uniquement sur PC, n'acceptant plus les "bullshit" que Sony et Microsoft sont capable de dire à un rythme impressionnant.
 Une console est fondamentalement inférieure à un PC, point.
-Il est impossible d'avoir un expérience comparable avec un processeur 8 coeurs AMD à 1.6 GHz, les téléphones et appareils mobiles sont entrain de les rattraper en terme de performance.
-Un intel core M est plus performant, dans certaines taches, et ce ne sont même pas des processeurs qui essaient de l'être.
-Les efforts pathétique de microsoft et sony, avec la PS4 Pro, ou la nouvelle Xbox ne sont pas assez pour me faire changer d'avis.
-Le nouveau est plus puissant certes, mais nous sommes encore loin de la promesse de ces nouvelles consoles du 4k.
-Elles sont a peine assez puissantes pour rouler les jeux en 1080p à 60 fps, ce que les PC sont capable de faire depuis plusieurs années.
-Mais les consoles ont des super ultra graphiques !!! diront certains.
-Ah oui ? Pourquoi est-ce que mon PC a des meilleurs graphiques alors, pourquoi est-ce que ton jeu ressemble au PC avec les graphiques au minimum ?
-Null besoin de dire que tant que Microsoft et Sony vendront des consoles avec du hardware médiocre dans le but d'en faire un grand profit et que les "peasant" vont continuer de les acheter, les consoles seront inférieures et vont retenir l'industrie du jeu video en 2010.
-Bref, voici mon opinion sur les consoles.
-Vous trouverez de tout sur mon blog.
