@@ -1,6 +1,6 @@
 ---
 published: true
-layout: blog
+layout: post
 blog: true
 title: Working with third party API
 ---
