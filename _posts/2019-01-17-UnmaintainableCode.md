@@ -2,6 +2,7 @@
 title: How To Write Unmaintainable Code
 layout: post
 blog: true
+published: false
 ---
 
 ## Ensure a job for life ;-)
