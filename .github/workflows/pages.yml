@@ -1,0 +1,18 @@
+name: Jekyll Action
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: helaili/jekyll-action@master
+    - name: Build the site in the jekyll/builder container
+    - env:
+      - SRC : website
+    - secrets: ["JEKYLL_PAT"]
