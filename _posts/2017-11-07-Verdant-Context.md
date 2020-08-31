@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 Context set for the story of that project, never got around to it. That's a trend with most of my projects.
 
-<!-- more -->
+<!--more-->
 
 Current time
 ============

@@ -65,7 +65,7 @@
             "",
             "$0",
             "",
-            "<!-- more -->"
+            "<!--more-->"
         ],
         "description": "YAML front header for a blog post"
     },

@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 This was an other project insprired by many souces. Never got around to finish it.
 
-<!-- more -->
+<!--more-->
 
 Sara Vasquez
 ============

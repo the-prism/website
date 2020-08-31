@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 This is my latest writing project, I am not completly done with it. Set in the halo universe after the events of Halo 5, I might do several short stories.
 
-<!-- more -->
+<!--more-->
 
 Prologue
 ========
