@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about.html
 published: true
+bigimg: https://i.imgur.com/qs0Jr2n.jpg
 ---
 
 <img class="rightimg img200px" src="{{ site.baseurl }}/images/me.jpg"/>
