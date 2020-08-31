@@ -56,9 +56,11 @@
         "prefix": "blog-post",
         "body": [
             "---",
+            "published: false",
             "layout: post",
             "title: $1",
             "blog: true",
+            "excerpt_separator: <!--more-->",
             "---",
             "",
             "$0",
