@@ -1,14 +1,10 @@
 ---
-published: true
-layout: post
-blog: true
+description: The ASRA system has identified a potential target that needs to be eliminated.
+categories: ['writing']
+layout: page
+date: 2018-10-11
 title: ASRA - Asset Recovery
-excerpt_separator: <!--more-->
 ---
-
-The ASRA system has identified a potential target that needs to be eliminated.
-
-<!--more-->
 
 # Chapter 1
 

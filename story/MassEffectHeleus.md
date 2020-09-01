@@ -1,16 +1,12 @@
 ---
-published: true
-layout: post
-blog: true
+description: "This project was supposed to be a story set in the mass effect universe around the time of mass effect andromeda, set in the milky way and going out on a second expedition to the heleus cluster.
+<br/>
+However the project never got out of the planning phase."
+categories: ['writing']
+layout: page
+date: 2019-08-20
 title: Mass Effect Heleus - Plan
-excerpt_separator: <!--more-->
 ---
-
-This project was supposed to be a story set in the mass effect universe around the time of mass effect andromeda, set in the milky way and going out on a second expedition to the heleus cluster.
-
-However the project never got out of the planning phase.
-
-<!--more-->
 
 Story plan
 ----------

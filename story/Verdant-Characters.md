@@ -1,14 +1,10 @@
 ---
-published: false
-layout: post
+description: This was an other project insprired by many souces. Never got around to finish it.
+categories: ['writing']
+layout: page
+date: 2017-11-06
 title: Verdant - Characters
-blog: true
-excerpt_separator: <!--more-->
 ---
-
-This was an other project insprired by many souces. Never got around to finish it.
-
-<!--more-->
 
 Sara Vasquez
 ============

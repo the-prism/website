@@ -1,17 +1,14 @@
 ---
-published: false
-layout: post
-blog: true
+description: Halo fanfic writen way back. Hybrid between french and english, I don't know what I was thinking back then.
+categories: ['writing']
+layout: page
+date: 2012-10-13
 title: From bad to worse
-excerpt_separator: <!--more-->
 ---
-
-Halo fanfic writen way back. Hybrid between french and english, I don't know what I was thinking back then.
-<!--more-->
 
 **From bad to worse**
 
-*[Chapitre 1]{.underline}*
+*[Chapitre 1]*
 
 *Here we go again*
 

@@ -1,14 +1,10 @@
 ---
-published: true
-layout: post
-blog: true
+description: The aurora project is some sort of fanfic set in the Star Wars Universe.
+categories: ['writing']
+layout: page
+date: 2019-02-14
 title: Aurora
-excerpt_separator: <!--more-->
 ---
-
-The aurora project is some sort of fanfic set in the Star Wars Universe.
-
-<!--more-->
 
 # Chapter 1
 

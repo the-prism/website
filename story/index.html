@@ -1,0 +1,32 @@
+---
+layout: default
+title: Writing Projects
+bigimg: https://i.imgur.com/CHCJkDv.jpg
+---
+
+<h1>Writing projects</h1>
+
+<p>Il m'arrive de temps en temps de commencer des projets d'écriture et de ne jamais finir ces projets.
+  Donc ce je me suis dit que je devrais les mettre quelque part, donc les voici. La plus part sont incomplets.</p>
+
+
+<div class="posts">
+    {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+    {% for page in sorted_pages %}
+    {% if page.categories contains 'writing' %}
+      <article class="post card shadow-sm">
+        <div class="card-body">
+            <h3 class="card-title"><a href="{{ site.baseurl }}{{ page.url }}" class="link-unstyled">{{page.title}}</a></h3>
+            <p>
+              {{ page.date | date: "%B %e, %Y" }}
+            </p>
+            <div class="entry">
+              <p>{{ page.description }}</p>
+            </div>
+            
+            <a href="{{ site.baseurl }}{{ page.url }}" role="button" class="btn btn-outline-success">Read More</a>
+        </div>
+      </article>
+      {% endif %}
+      {% endfor %}
+  </div>

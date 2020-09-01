@@ -1,15 +1,11 @@
 ---
-published: true
-layout: post
+description: This is my latest writing project, I am not completly done with it. Set in the halo universe after the events of Halo 5, I might do several short stories.
+categories: ['writing']
+layout: page
+date: 2020-08-18
 title: A shadow menace
-blog: true
-excerpt_separator: <!--more-->
 bigimg: https://i.imgur.com/Ki1ydlS.jpg
 ---
-
-This is my latest writing project, I am not completly done with it. Set in the halo universe after the events of Halo 5, I might do several short stories.
-
-<!--more-->
 
 Prologue
 ========

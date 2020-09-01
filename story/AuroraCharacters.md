@@ -1,14 +1,10 @@
 ---
-published: true
-layout: post
-blog: true
+description: When I started the aurora project I had a lot of ideas in mind, I started writing characters and their backgrounds but never got around to finish it.
+categories: ['writing']
+layout: page
+date: 2019-02-13
 title: Aurora - Characters
-excerpt_separator: <!--more-->
 ---
-
-When I started the aurora project I had a lot of ideas in mind, I started writing characters and their backgrounds but never got around to finish it.
-
-<!--more-->
 
 # Sara Vasquez
 

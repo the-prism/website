@@ -1,14 +1,11 @@
 ---
-published: true
-layout: post
-blog: true
+description: How a gifted little girl created the ASRA system.
+categories: ['writing']
+layout: page
+date: 2018-10-10
 title: ASRA - Sara's Diary
 excerpt_separator: <!--more-->
 ---
-
-How a gifted little girl created the ASRA system.
-
-<!--more-->
 
 # Sara's Diary
 

@@ -1,14 +1,10 @@
 ---
-published: true
-layout: post
-blog: true
+description: Dans un futur proche, les pays de la terre entrent en guerre et s'anéantissent. Les seuls survivants sont en orbite à bord de la station spatiale internationale.
+categories: ['writing']
+layout: page
+date: 2018-08-26
 title: Le monde ne sera jamais plus pareil
-excerpt_separator: <!--more-->
 ---
-
-Dans un futur proche, les pays de la terre entrent en guerre et s'anéantissent. Les seuls survivants sont en orbite à bord de la station spatiale internationale.
-
-<!--more-->
 
 # Prologue
 

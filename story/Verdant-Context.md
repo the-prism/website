@@ -1,14 +1,10 @@
 ---
-published: false
-layout: post
+description: Context set for the story of that project, never got around to it. That's a trend with most of my projects.
+categories: ['writing']
+layout: page
+date: 2017-11-07
 title: Verdant - Context
-blog: true
-excerpt_separator: <!--more-->
 ---
-
-Context set for the story of that project, never got around to it. That's a trend with most of my projects.
-
-<!--more-->
 
 Current time
 ============

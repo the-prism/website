@@ -4,10 +4,9 @@ blog: true
 bigimg: https://i.imgur.com/vfbn8A0.jpg
 ---
 
-<h1>Writing projects</h1>
+<h1>Blog</h1>
 
-<p>Il m'arrive de temps en temps de commencer des projets d'écriture et de ne jamais finir ces projets.
-  Donc ce je me suis dit que je devrais les mettre quelque part, donc les voici. La plus part sont incomplets.</p>
+<p>Des fois j'écris des trucs, donc c'est mon opinion sur divers sujets, à prendre très à la légère.</p>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -18,7 +17,7 @@ bigimg: https://i.imgur.com/vfbn8A0.jpg
             {{ post.date | date: "%B %e, %Y" }}
           </p>
           <div class="entry">
-            {{ post.excerpt }}  
+            <p>{{ post.excerpt }}</p>
           </div>
           
           <a href="{{ site.baseurl }}{{ post.url }}" role="button" class="btn btn-outline-success">Read More</a>
