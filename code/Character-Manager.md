@@ -8,3 +8,5 @@ permalink: /code/Character-Manager.html
 
 # Todo 
 Write something
+
+Update 2020-12-29, still have a lot to do, and project is on hold for a while.
