@@ -4,7 +4,7 @@ categories: ['writing']
 layout: page
 date: 2020-08-18
 title: A shadow menace
-bigimg: https://i.imgur.com/Ki1ydlS.jpg
+bigimg: /images/ForgeWorld.jpg
 ---
 
 Prologue
